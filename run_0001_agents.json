@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Gauss",
+    "credits": 912,
+    "total_tasks": 45,
+    "total_correct": 45,
+    "kaizen_rounds": 2,
+    "knowledge": "[\"multiply\"]",
+    "first_seen_run": 1,
+    "last_active_run": 1
+  },
+  {
+    "name": "Euclid",
+    "credits": 916,
+    "total_tasks": 45,
+    "total_correct": 45,
+    "kaizen_rounds": 2,
+    "knowledge": "[\"multiply\"]",
+    "first_seen_run": 1,
+    "last_active_run": 1
+  },
+  {
+    "name": "Noether",
+    "credits": 925,
+    "total_tasks": 45,
+    "total_correct": 45,
+    "kaizen_rounds": 2,
+    "knowledge": "[\"multiply\"]",
+    "first_seen_run": 1,
+    "last_active_run": 1
+  },
+  {
+    "name": "Fermat",
+    "credits": 923,
+    "total_tasks": 45,
+    "total_correct": 45,
+    "kaizen_rounds": 2,
+    "knowledge": "[\"multiply\"]",
+    "first_seen_run": 1,
+    "last_active_run": 1
+  },
+  {
+    "name": "Lovelace",
+    "credits": 916,
+    "total_tasks": 45,
+    "total_correct": 45,
+    "kaizen_rounds": 2,
+    "knowledge": "[\"multiply\"]",
+    "first_seen_run": 1,
+    "last_active_run": 1
+  }
+]

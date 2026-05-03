@@ -1,0 +1,24 @@
+{
+  "listings": [
+    {
+      "name": "multiply",
+      "listed_at_run": 1,
+      "listed_at_round": 4,
+      "listed_by": "Gauss",
+      "publish_cost": 5
+    }
+  ],
+  "trades": [],
+  "abstractions": [
+    {
+      "name": "multiply",
+      "description": "repeated addition shortcut: a\u00d7b",
+      "discovered_by": "Gauss",
+      "discovered_at_run": 1,
+      "discovered_at_round": 4,
+      "energy_cost": 1,
+      "total_usage": 0,
+      "total_royalties": 0
+    }
+  ]
+}
