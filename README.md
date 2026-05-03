@@ -1,4 +1,4 @@
-<img width="1190" height="209" alt="image" src="https://github.com/user-attachments/assets/e8780d02-5db6-4c1b-a294-27d2bb7f2006" />To run the files just do this:
+To run the files just do this:
 python math_society.py --agents 5 --rounds 80 --pop 12 --fresh
 
 Anyways, this is more like a project out of my own curiosity and try new ideas that I had in my head onto this project. It kinda worked I guess? It discovers formulas by itself and it does run things efficiently so I guess it kinda works.
@@ -17,6 +17,7 @@ anyways here are some results from it:
 <img width="856" height="223" alt="image" src="https://github.com/user-attachments/assets/5cd3c676-d2ea-4f0e-8411-4248bfb69fd8" />
 <img width="900" height="188" alt="image" src="https://github.com/user-attachments/assets/7077796c-c7f5-48a8-ba24-dfec44541eca" />
 <img width="1034" height="224" alt="image" src="https://github.com/user-attachments/assets/bc1204a7-2ef3-49e0-a395-a0463c4b0c75" />
+<img width="1190" height="209" alt="image" src="https://github.com/user-attachments/assets/e8780d02-5db6-4c1b-a294-27d2bb7f2006" />
 <img width="1212" height="221" alt="image" src="https://github.com/user-attachments/assets/67c0e3bd-8528-431a-875a-9cc58820917e" />
 <img width="1231" height="240" alt="image" src="https://github.com/user-attachments/assets/4867bc77-d079-4edb-9514-157bd66d131f" />
 <img width="1051" height="199" alt="image" src="https://github.com/user-attachments/assets/a430193a-958c-4c60-ac9a-f5d7b3fc7c5a" />
